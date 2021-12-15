@@ -15,7 +15,7 @@ GET:
 /products
 
 POST:
-/Products
+/products
 
 PATCH:
 /products/id
