@@ -6,7 +6,7 @@ Para o frontend foi usado ReactJS
 
 # Backend
 
-Clonar o repositório e usar o comando npm install
+Clonar o repositório e usar o comando npm install, depois o comando npm run start
 
 A API está disponível no endereço:
 https://coteminasbackend.herokuapp.com
@@ -25,7 +25,7 @@ DELETE:
 
 # Frontend
 
-Clonar o projeto e usar o comando npm install
+Clonar o projeto e usar o comando npm install e depois npm start
 
 A página está disponível no endereço:
 https://coteminasfrontend.herokuapp.com/
